@@ -1,18 +1,9 @@
 <template>
-  <div class="hello">
+  <div>
     <h1>Ciao!</h1>
     <p>La mia prima app Vue CLI!</p>
   </div>
 </template>
-
-<script>
-export default {
-  name: "HelloWorld",
-  props: {
-    msg: String,
-  },
-};
-</script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
